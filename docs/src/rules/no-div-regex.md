@@ -45,3 +45,7 @@ function bar() { return /[=]foo/; }
 ## Options
 
 This rule has no options.
+
+## When Not To Use It
+
+If you are comfortable with `/=` at the start of a regular expression literal, you can turn this rule off.

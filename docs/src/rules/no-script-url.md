@@ -28,6 +28,10 @@ location.href = `javascript:void(0)`;
 
 This rule has no options.
 
+## When Not To Use It
+
+If you intentionally use `javascript:` URLs, you can turn this rule off.
+
 ## Compatibility
 
 * **JSHint**: This rule corresponds to `scripturl` rule of JSHint.

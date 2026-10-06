@@ -41,3 +41,11 @@ function a() {
 ```
 
 :::
+
+## Options
+
+This rule has no options.
+
+## When Not To Use It
+
+If you do not want regular expression literals wrapped in parentheses, you can turn this rule off.

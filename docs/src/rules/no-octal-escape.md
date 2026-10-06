@@ -45,3 +45,7 @@ const buz = "Copyright \xA9";     // hexadecimal
 ## Options
 
 This rule has no options.
+
+## When Not To Use It
+
+If ESLint parses your code in strict mode, the parser already reports octal escapes in strings, so you can turn this rule off.
