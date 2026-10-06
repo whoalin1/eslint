@@ -51,3 +51,7 @@ Foo();
 ## Options
 
 This rule has no options.
+
+## When Not To Use It
+
+If you intentionally call a constructor with `new` and discard the result, you can turn this rule off.

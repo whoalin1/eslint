@@ -48,6 +48,10 @@ const num  = "071";
 
 This rule has no options.
 
+## When Not To Use It
+
+If ESLint parses your code in strict mode, the parser already reports octal literals, so you can turn this rule off.
+
 ## Compatibility
 
 * **JSHint**: W115

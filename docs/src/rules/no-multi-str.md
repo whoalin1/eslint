@@ -48,3 +48,7 @@ const y = "some very " +
 ## Options
 
 This rule has no options.
+
+## When Not To Use It
+
+If you want to keep multiline strings that use a backslash before the newline, you can turn this rule off.

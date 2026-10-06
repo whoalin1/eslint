@@ -49,3 +49,7 @@ try {
 ## Options
 
 This rule has no options.
+
+## When Not To Use It
+
+If you intentionally reassign a `catch` parameter, you can turn this rule off.

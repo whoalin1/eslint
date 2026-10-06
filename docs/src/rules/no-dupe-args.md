@@ -53,3 +53,7 @@ const bar = function (a, b, c) {
 ## Options
 
 This rule has no options.
+
+## When Not To Use It
+
+If ESLint parses your code in strict mode, the parser already reports duplicate parameter names, so you can turn this rule off.
